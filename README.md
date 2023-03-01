@@ -72,8 +72,9 @@
 
   - 仓库：<https://github.com/huamurui/bbs-blog>
   - 部署：null
+<details>
+<summary>others</summary>
 
-- #### others
 
   - 一个小脚本，引入网页后会有雪花的特效, 使用 canvas 与一些 dom api 实的现动画
   - 演示： <https://huamurui.github.io/Snowfall/>
@@ -87,6 +88,8 @@
   - 两个特化的计算器
   - 演示： <https://huamurui.github.io/printing-price-count/>
   - 演示： <https://huamurui.github.io/go-to-school/>
+
+</details>
 
 ## 其他
 
