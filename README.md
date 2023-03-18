@@ -16,27 +16,26 @@
 
 ## 求职意向
 
-- web 前端，但相关的也可以干。
-- 随时到岗
+- web 前端，但相关的也可以做一些。
+- 暑假，7月可到岗
 
 ## 技术栈
 
 ### 前端
 
 - 熟悉 html, css, js
-  - 熟悉 HTML5, CSS3, 可按照规范开发友好、容易使用，美观，响应式的网页；熟悉 SCSS, tailwind，更好的还原设计稿。
-  - 熟悉 ES6 语法，熟悉 web api 及 dom, bom 操作方法，了解 nodejs。
+  - 熟悉 HTML5, CSS3, 可按照规范开发友好、容易使用，美观，响应式的网页；
+  - 了解 SCSS, tailwind，更好的还原设计稿。
+  - 熟悉 ES6 语法，了解 H5的 web api 及 dom, bom 操作方法，了解 nodejs。
 - 熟悉 vue 以及相关的 web 开发生态，如
   - webpack, vite 脚手架，
   - npm, yarn, pnpm 包管理工具，
   - lint, prettier, typescript帮助代码规范可读可维护，
   - lodash, vueuse 函数库，
   - element-ui, naive-ui, ant-design 组件库，
-  - vuex, pinia 状态管理工具，
-  - 还有 router, axios...。
-  - 了解过源码...但目前没啥用
+  - vuex, pinia 状态管理工具，router, axios...。
 - 了解前端工程化 monorepo 单仓库项目, webpack, vite 打包。
-- 了解 react, 知道 jsx, 看过文档, 生态不熟悉但应该也可以写。
+- 了解 react, 知道 jsx, 看过文档, 生态不熟悉但应该也可以写些简单的。
 
 ### 后端
 
@@ -61,39 +60,17 @@
 
 - ### 一个瀑布流布局的图片墙
 
-  - 用vue3, ts写的，发了npm包。
+  - 用vue3, ts写的，发到了npm上。(但没有用打包工具压缩代码，目前是源代码引用)
 
   - 仓库：<https://github.com/huamurui/vue-biu-waterfall>
   - 演示：<https://biubiubiu.huamurui.me/>
 
-- ### 一个缝来缝去的小demo，类似博客
-
-  - 是我刚学开发时做的一个，使用 vue2, springboot, mybatis, mysql 等等搭建。...这个太烂了，而且部署有问题，功能都不通了。
-
-  - 仓库：<https://github.com/huamurui/bbs-blog>
-  - 部署：null
-<details>
-<summary>others</summary>
-
-
-  - 一个小脚本，引入网页后会有雪花的特效, 使用 canvas 与一些 dom api 实的现动画
-  - 演示： <https://huamurui.github.io/Snowfall/>
-
-  - 卡片，电脑上是鼠标划过有效果，手机端似乎可以感应手持角度变化
-  - 演示： <https://huamurui.github.io/glassmorphism-card>
-
-  - 有碰撞的小球的模型
-  - 演示： <https://huamurui.github.io/bumping-balls/>
+- ### 基于 socket-io 的在线小游戏
   
-  - 两个特化的计算器
-  - 演示： <https://huamurui.github.io/printing-price-count/>
-  - 演示： <https://huamurui.github.io/go-to-school/>
-
-</details>
+  - 仓库 : <https://github.com/huamurui/bumping-balls>
+  - 离线演示 : <https://huamurui.github.io/bumping-balls/>
 
 ## 其他
 
 - 大学英语四六级
-- github: <https://github.com/huamurui>
 - blog: <https://huamurui.github.io/>
-- 会切网页会切网页会切网页
