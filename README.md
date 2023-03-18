@@ -34,7 +34,7 @@
   - lodash, vueuse 函数库，
   - element-ui, naive-ui, ant-design 组件库，
   - vuex, pinia 状态管理工具，router, axios...。
-- 了解前端工程化 monorepo 单仓库项目, webpack, vite 打包。
+- 了解前端工程化, monorepo; webpack, vite 打包。
 - 了解 react, 知道 jsx, 看过文档, 生态不熟悉但应该也可以写些简单的。
 
 ### 后端
@@ -48,8 +48,6 @@
 - 了解 DevOps，使用 github action 做过简单的 cicd。
 
 ## 项目经历
-
-无。只能算是自己做的小玩具吧...
 
 - ### 仿掘金做的一个网站
 
@@ -69,6 +67,10 @@
   
   - 仓库 : <https://github.com/huamurui/bumping-balls>
   - 离线演示 : <https://huamurui.github.io/bumping-balls/>
+
+- ### 咨询小程序
+
+  - 公司项目，主要负责前端小程序部分的页面编写接口调试等
 
 ## 其他
 
