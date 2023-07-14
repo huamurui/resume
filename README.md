@@ -13,7 +13,7 @@
 ## 求职意向
 
 - web 前端，相关的也可以做一些
-- 6月26 可到岗  
+- 现居杭州，可保证长期全职实习，6个月以上，一周内到岗
 
 ## 技术栈
 
@@ -35,8 +35,8 @@
 
 ### 后端
 
-- java 使用过 spring 全家桶, mybaits ,使用过 mysql 数据库，会写简单 sql.
-- nodejs 用过 socket.io, nestjs, strapi.
+- java 使用过 spring 全家桶, mybaits, 使用过 mysql 数据库，会写简单 sql.
+- nodejs 用过 socket.io, koa, strapi.
 
 ### 运维
 
@@ -49,19 +49,29 @@
 
   - 使用 nuxt(vue) 与 strapi.
   - 主要写了主页与文章详情页，有后台 cms 可修改添加文章，配置广告内容等; 使用 css 媒体查询简单适配了移动端屏幕，利用 scss 的 mixin 设计实现了亮暗两个主题可切换; nuxt 自带有 SSR、优化 SEO, 代码组织方面的自动导入文件式路由等.
-  
+  - 第一次大量的写 css
+  - 仓库: <https://github.com/huamurui/meow-juejin-clone>  
+
 - ### 咨询小程序
 
-  - 天津第六频道的原生微信小程序，常规的页面编写与对接口...  
+  - 天津第六频道的原生微信小程序，常规的页面编写与对接口
   - 有意思的地方可能是写了一个列表的滑动手势操作的处理，还有个弹窗组件的封装.
+  - 链接: #小程序://第六帮办/jjzJ2DBpdt0izcp
 
 - ### 基于 socket.io 的聊天室
 
   - 主要使用 nodejs, socket.io, koa, mongodb, mongoose. 采用了 pnpm 以 monorepo 的方式管理项目.
-  - 实现基础的注册登录，加入、创建频道，收发消息功能. 为了统一方便，包括登录注册功能全部基于 socket.io 实现，使用 mongodb 持久化存储数据.
-  - 前端部分移动端适配，做了滑动切换界面，切换时的动画效果等优化.
+  - 项目基于一个在线小游戏的案例，扩充到功能更加丰富的聊天室。过程中对接口设计，前后端分离式的架构有了更多踩坑和认识。
+
+- ###  瀑布流的布局组件
+
+  - 基于 vue, typescript
+  - 仓库/文档: <https://github.com/huamurui/vue-biu-waterfall>
+  - 演示: <https://biubiubiu.huamurui.me>
 
 ## 其他
 
 - 大学英语四六级
 - blog: <https://huamurui.github.io>
+- 小游戏: <http://52.139.152.36:8081>
+- 小玩具们: <https://huamurui.github.io/html-s>
